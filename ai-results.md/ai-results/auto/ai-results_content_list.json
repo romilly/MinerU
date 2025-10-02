@@ -1,0 +1,1486 @@
+[
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            217,
+            154,
+            303,
+            172
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recent Questions ",
+        "bbox": [
+            217,
+            185,
+            343,
+            200
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "• What evidence do we have about the need for recall rather than just review in learning? And how does this relate to what we know about changes in the brain? ",
+        "bbox": [
+            238,
+            208,
+            781,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Privacy Policy • Terms of Use • Responsible Use ",
+        "bbox": [
+            215,
+            260,
+            599,
+            276
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FeedbackAbout ",
+        "bbox": [
+            217,
+            284,
+            328,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "What evidence do we have about the need for recall rather than just review in learning? And how does this relate to what we know about changes in the brain? ",
+        "bbox": [
+            214,
+            315,
+            779,
+            361
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Are these answers helpful? ",
+        "bbox": [
+            217,
+            369,
+            406,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ShareDisclaimer ",
+        "bbox": [
+            217,
+            392,
+            333,
+            406
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background Active recall during or immediately after learning has been recognized as a powerful learning tool since the early 1900s ",
+        "bbox": [
+            215,
+            425,
+            779,
+            454
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Cowan et al., 2023)   \n](https://semanticscholar.org/p/261785053)   \n[ ",
+        "bbox": [
+            215,
+            484,
+            529,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Abott, 1909) ",
+        "bbox": [
+            215,
+            553,
+            313,
+            569
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/143883128) ",
+        "bbox": [
+            215,
+            575,
+            529,
+            590
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ". This early understanding gained more scientific backing when researchers discovered that information stored in short-term memory is lost within 18-30 seconds if not actively rehearsed ",
+        "bbox": [
+            215,
+            598,
+            782,
+            643
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Cowan et al., 2023) ](https://semanticscholar.org/p/261785053) ",
+        "bbox": [
+            214,
+            674,
+            529,
+            715
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The difference between passive review and active recall is fundamental to understanding why recall matters. Retrieval practice represents the active process of pulling information from memory, as opposed to simply re-reading or reviewing material ",
+        "bbox": [
+            217,
+            742,
+            781,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Cowan et al., 2023) ",
+        "bbox": [
+            215,
+            832,
+            361,
+            848
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/261785053) ",
+        "bbox": [
+            214,
+            156,
+            531,
+            172
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ". This process goes beyond mere memorization - when learners engage in retrieval practice, they strengthen memory traces and develop deeper understanding of the material ",
+        "bbox": [
+            217,
+            180,
+            781,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Cowan et al., 2023) ",
+        "bbox": [
+            215,
+            255,
+            361,
+            271
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/261785053) ",
+        "bbox": [
+            217,
+            277,
+            531,
+            294
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Pyc et al., 2010)",
+        "bbox": [
+            215,
+            323,
+            339,
+            339
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/19431054) ",
+        "bbox": [
+            217,
+            345,
+            522,
+            362
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ". Not only does testing evaluate memory, but research has notably shown that practice tests improve memory more effectively than simply restudying the material ",
+        "bbox": [
+            215,
+            369,
+            781,
+            414
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Pyc et al., 2010)",
+        "bbox": [
+            215,
+            444,
+            339,
+            460
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/19431054) ",
+        "bbox": [
+            217,
+            467,
+            522,
+            483
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Is this section helpful? ",
+        "bbox": [
+            215,
+            512,
+            377,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Evidence for Testing Effect Multiple large-scale studies and meta-analyses have confirmed that testing is more effective for long-term learning than restudying material ",
+        "bbox": [
+            215,
+            545,
+            781,
+            590
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Rowland, 2014) ",
+        "bbox": [
+            215,
+            621,
+            334,
+            636
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/30042631) ",
+        "bbox": [
+            217,
+            642,
+            522,
+            660
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Adesope et al., 2017) ",
+        "bbox": [
+            215,
+            688,
+            372,
+            704
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/44204922) ",
+        "bbox": [
+            215,
+            710,
+            522,
+            727
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": ". While restudying may show better results in immediate testing (within 5 minutes), the benefits of testing become apparent over longer intervals of days or weeks ",
+        "bbox": [
+            217,
+            733,
+            781,
+            779
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(Rivers, 2023) ",
+        "bbox": [
+            215,
+            809,
+            316,
+            825
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/260151313) ",
+        "bbox": [
+            217,
+            832,
+            531,
+            848
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "[   \n(Antony et al., 2018)   \n](https://semanticscholar.org/p/21705903) ",
+        "bbox": [
+            215,
+            156,
+            524,
+            239
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The magnitude of this effect is substantial. Studies have shown that testing can improve long-term retention scores by approximately $5 0 \\%$ compared to passive learning strategies ",
+        "bbox": [
+            215,
+            248,
+            781,
+            294
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Arango-Ibañez et al., 2023) ",
+        "bbox": [
+            215,
+            324,
+            418,
+            339
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/268682844) ",
+        "bbox": [
+            215,
+            345,
+            529,
+            362
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ". Even unsuccessful retrieval attempts, when followed by feedback, can enhance learning compared to simply studying the material ",
+        "bbox": [
+            215,
+            368,
+            781,
+            400
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Augustin, 2014) ",
+        "bbox": [
+            215,
+            429,
+            336,
+            445
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/16585592) ",
+        "bbox": [
+            217,
+            452,
+            521,
+            468
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Kornell et al., 2009) ",
+        "bbox": [
+            215,
+            497,
+            366,
+            512
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/12930187) ",
+        "bbox": [
+            217,
+            518,
+            522,
+            535
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This effect has been demonstrated across various educational contexts, from laboratory studies to real classroom settings ",
+        "bbox": [
+            215,
+            565,
+            779,
+            595
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Chang, 2017) ",
+        "bbox": [
+            215,
+            626,
+            318,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/14563960) ",
+        "bbox": [
+            217,
+            647,
+            522,
+            664
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": ". Daily testing in classroom environments has led to significantly better grades and fewer course withdrawals compared to traditional assessment approaches ",
+        "bbox": [
+            214,
+            670,
+            781,
+            700
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Leeming, 2002) ",
+        "bbox": [
+            215,
+            731,
+            331,
+            747
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/145639687) ",
+        "bbox": [
+            215,
+            753,
+            529,
+            770
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An interesting finding is that testing appears to be particularly effective for strengthening weak associations in memory. When learning word pairs, testing improved recall of weakly associated pairs more than strongly associated ones, eventually leading to better retention of the weak associations ",
+        "bbox": [
+            215,
+            799,
+            781,
+            830
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            215,
+            157,
+            784,
+            188
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Loof et al., 2018) ",
+        "bbox": [
+            215,
+            218,
+            344,
+            233
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/3295232) ",
+        "bbox": [
+            217,
+            239,
+            514,
+            256
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Carpenter, 2009) ",
+        "bbox": [
+            215,
+            286,
+            343,
+            301
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/13534020) ",
+        "bbox": [
+            217,
+            308,
+            521,
+            324
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Perhaps most notably, students often underestimate the value of testing as a learning strategy. Many prefer to repeatedly read their notes or textbooks, despite the limited benefits of this approach ",
+        "bbox": [
+            217,
+            354,
+            784,
+            398
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Simon-Campbell et al., 2018) ",
+        "bbox": [
+            215,
+            429,
+            431,
+            445
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/150000628) ",
+        "bbox": [
+            217,
+            452,
+            529,
+            468
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Karpicke et al., 2009) ",
+        "bbox": [
+            215,
+            497,
+            377,
+            512
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/36234279) ",
+        "bbox": [
+            217,
+            518,
+            522,
+            535
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": ". This misconception can lead to “illusions of competence” where students feel they understand material better than they actually do simply because it feels familiar through repeated reading ",
+        "bbox": [
+            215,
+            542,
+            781,
+            588
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(Simon-Campbell et al., 2018) ",
+        "bbox": [
+            215,
+            617,
+            431,
+            633
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/150000628) ",
+        "bbox": [
+            217,
+            640,
+            529,
+            656
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Is this section helpful? ",
+        "bbox": [
+            215,
+            685,
+            377,
+            700
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mechanisms and Brain Changes Research has revealed distinct neural mechanisms that explain why retrieval practice leads to better learning outcomes than passive review. When learners engage in active recall, there is increased activity in key brain regions, particularly the medial prefrontal cortex (MPFC), which plays a crucial role in memory consolidation ",
+        "bbox": [
+            217,
+            718,
+            781,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The benefits of retrieval practice appear to work through two main neural mechanisms. First, it creates spreading activation in semantic networks, producing more accessible and lasting memory traces ",
+        "bbox": [
+            215,
+            203,
+            782,
+            248
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Ferreira et al., 2021) ",
+        "bbox": [
+            215,
+            279,
+            367,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/237891064) ",
+        "bbox": [
+            215,
+            300,
+            531,
+            316
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ". Second, according to the “fast route to consolidation” hypothesis, retrieval practice leads to rapid online consolidation of information by enhancing specific neocortical networks while downregulating irrelevant connections ",
+        "bbox": [
+            215,
+            324,
+            781,
+            369
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Guran et al., 2022) ",
+        "bbox": [
+            215,
+            398,
+            359,
+            415
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/247851056) ",
+        "bbox": [
+            217,
+            421,
+            531,
+            438
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During retrieval, memories become temporarily malleable and more prone to modification, a process known as reconsolidation ",
+        "bbox": [
+            215,
+            467,
+            779,
+            497
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Maraver et al., 2022) ",
+        "bbox": [
+            215,
+            527,
+            372,
+            542
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/251278894) ",
+        "bbox": [
+            217,
+            549,
+            531,
+            565
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ". This malleability allows for better integration of new information with existing knowledge, particularly when feedback is provided immediately after retrieval attempts ",
+        "bbox": [
+            215,
+            573,
+            781,
+            617
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Maraver et al., 2022) ",
+        "bbox": [
+            215,
+            648,
+            372,
+            664
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/251278894) ",
+        "bbox": [
+            217,
+            670,
+            529,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Brain imaging studies have identified specific regions involved in successful retrieval practice. Increased activity in the left inferior parietal lobe and middle temporal gyrus during repeated retrieval (but not during passive restudying) predicts better subsequent recall ",
+        "bbox": [
+            217,
+            717,
+            781,
+            776
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(Sekeres et al., 2016) ",
+        "bbox": [
+            215,
+            806,
+            364,
+            821
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/4826596) ",
+        "bbox": [
+            215,
+            829,
+            514,
+            845
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ". Additionally, retrieval enhances functional connectivity between the hippocampus and both the medial prefrontal and posterior cingulate cortex ",
+        "bbox": [
+            214,
+            157,
+            781,
+            188
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Sekeres et al., 2016) ](https://semanticscholar.org/p/4826596) ",
+        "bbox": [
+            215,
+            217,
+            514,
+            257
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The right prefrontal cortex (PFC) plays a particularly important role in memory formation during retrieval. It contributes to organizing information and monitoring cognitive processes, leading to stronger association formation than typically occurs during passive study ",
+        "bbox": [
+            215,
+            285,
+            782,
+            347
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Liu et al., 2014) ](https://semanticscholar.org/p/821418) ",
+        "bbox": [
+            215,
+            376,
+            508,
+            415
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Blumenfeld et al., 2006) ",
+        "bbox": [
+            215,
+            444,
+            393,
+            459
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "](https://semanticscholar.org/p/6269954) ",
+        "bbox": [
+            215,
+            467,
+            514,
+            483
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": ". This organization of information in working memory by the PFC appears to strengthen associations among items for long-term retention ",
+        "bbox": [
+            214,
+            489,
+            781,
+            520
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Liu et al., 2014) ](https://semanticscholar.org/p/821418) ",
+        "bbox": [
+            215,
+            549,
+            506,
+            609
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Is this section helpful? ",
+        "bbox": [
+            215,
+            617,
+            379,
+            632
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Key Factors Affecting Recall Success Here are the critical factors that influence successful recall-based learning: ",
+        "bbox": [
+            217,
+            650,
+            781,
+            681
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Spacing of Practice Sessions ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            688,
+            490,
+            704
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "• Distributing learning over time is more effective than massing (cramming) study sessions together [ (Kondratjew et al., 2019) ](https://semanticscholar.org/p/150300961) [ ",
+        "bbox": [
+            272,
+            710,
+            781,
+            834
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(Kang, 2016) ](https://semanticscholar.org/p/15347013) • The optimal spacing interval increases as the retention interval increases, suggesting a need to adjust review schedules over time [ (Cepeda et al., 2006) ](https://semanticscholar.org/p/18831615) ",
+        "bbox": [
+            274,
+            156,
+            782,
+            344
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. Appropriate Difficulty Level ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            354,
+            490,
+            369
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• Testing needs to maintain a balance - if success rates are too high or too low, memory improvement is unlikely [ (Baillifard et al., 2023) ](https://semanticscholar.org/p/262462235)   \n• Creating “desirable difficulty” through spaced practice helps long-term retention [ (Baillifard et al., 2023) ](https://semanticscholar.org/p/262462235) ",
+        "bbox": [
+            272,
+            377,
+            782,
+            625
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Processing Depth ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            633,
+            403,
+            648
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• Deep processing that encourages thorough engagement leads to more durable and retrievable memories, while shallow processing results in temporary retention [ (Zhang et al., 2024) ](https://semanticscholar.org/p/267406482)   \n• Varying learning tasks and incorporating novelty can enhance knowledge acquisition ",
+        "bbox": [
+            272,
+            656,
+            782,
+            829
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Rehearsal Patterns ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            226,
+            415,
+            241
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "• Initial learning may require multiple rehearsals each day, then weekly, then monthly as memories consolidate [ (Brkić, 2013) ](https://semanticscholar.org/p/33505496)   \n• Even one additional review can significantly increase recall through overlearning [ (Brkić, 2013) ](https://semanticscholar.org/p/33505496) ",
+        "bbox": [
+            272,
+            248,
+            784,
+            496
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. Student Understanding and Beliefs ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            505,
+            547,
+            520
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "• Students often avoid and misunderstand effective learning techniques, even when given the chance to try them [ (Firth, 2021) ](https://semanticscholar.org/p/236661664)   \n• There’s frequently a mismatch between students’ beliefs about effective study methods and what actually works [ (Firth, 2021) ](https://semanticscholar.org/p/236661664) ",
+        "bbox": [
+            272,
+            529,
+            784,
+            776
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6. Organization of Information ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            785,
+            490,
+            799
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "• Recall practice can improve how information is organized into categories ",
+        "bbox": [
+            274,
+            806,
+            782,
+            838
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[ (Eisenkraemer et al., 2013) ](https://semanticscholar.org/p/55310562) • Better organization into categories leads to improved memory retrieval rates [ (Eisenkraemer et al., 2013) ](https://semanticscholar.org/p/55310562) ",
+        "bbox": [
+            274,
+            156,
+            782,
+            367
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "7. Testing Intervals ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            377,
+            397,
+            392
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• While repeated retrieval through tests enhances long-term retention, the specific intervals between tests may be less critical than previously thought [ (Eisenkraemer et al., 2013) ](https://semanticscholar.org/p/55310562)   \n• Multiple testing opportunities create multiple memory traces, optimizing recall [ (Metsämuuronen et al., 2013) ](https://semanticscholar.org/p/54846787) ",
+        "bbox": [
+            272,
+            400,
+            784,
+            661
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Is this section helpful? ",
+        "bbox": [
+            215,
+            670,
+            379,
+            685
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Literature Comparison Table ",
+        "bbox": [
+            215,
+            694,
+            428,
+            708
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Columns: ${ < } 1 ~ / ~ 2 >$ ",
+        "bbox": [
+            214,
+            715,
+            285,
+            755
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/72fe28c5cff7a024962ec565e12850b35a71c48c96b6e6ec544f1197e8bfc05f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Papers Kondratjew</td><td>Learning Strategies The paper</td><td>Study Design And Methodology</td><td>Recall And Retention Outcomes</td></tr><tr><td>et al, 2019. Journal of Work- Applied Manage- ment. (8 citations) Baillifard et</td><td>studied the impact of spaced learning（SL） on experiential learning (EL) in a work-based training environ- ment.(evidence)</td><td>The study used a mixed-method design with a single case study approach, involving quantitative and qualitative data collection methods.(evidence)</td><td>The study measured knowledge retention and recall success through spaced learning sessions after experiential learning training.(evidence)</td></tr><tr><td>al, 2023. arXiv.org.</td><td>The paper implemented personalized retrieval practice and spaced repetition using an AI tutor app to enhance learning and</td><td>The study design involved a semester-long experiment with psychology students using an AI tutor app to enhance learning.(evidence)</td><td>The study measured knowledge retention and recall success through exam grades and percentile gains, showing improvement with active engagement with the AI tutor app.(evidence)</td></tr><tr><td>Zhang et al, 2024. arXiv.org.</td><td>recall.(evidence) Cognitive Replay, Adaptive Quantity Allocation, Quality-Focused Data Selec- tion.(evidence)</td><td>The study introduced CO gnitive RE play (CORE)with Adaptive Quantity Allocation and Quality-Focused Data Selection strate-</td><td>The paper measures knowledge retention and recall success through accuracy values and forgetting rates.(evidence)</td></tr><tr><td>Brkic,2013． Srpski Arhiv za Celokupno Lekarstvo. (3 citations)</td><td>The paper discusses interventions like mnemonic strategies, graphic organizers, and active learning to enhance learning and recall.(evidence)</td><td>gies.(evidence) The paper describes educational interventions related to the Woodcock-Johnson III Tests of Achievement based on cognitive processes and narrow abilities.(evidence)</td><td>The paper discusses interventions for improving recall and retention outcomes in various academic areas.(evidence)</td></tr><tr><td>Papers</td><td>Learning Strategies</td><td>Study Design And Methodology</td><td>Recall And Retention Outcomes</td></tr><tr><td>Firth, 2021. Studia Psy- chologica. (1 citation)</td><td>The paper studied retrieval practice,spacing, and interleaving as evidence-based learning strate- gies.(evidence)</td><td>The study used vignettes to compare trainee and in-service teachers’beliefs about memory strate- gies.(evidence)</td><td>The study measured accuracy of teachers' beliefs about memory strategies, showing varied understanding of desirable difficulties like spacing and retrieval</td></tr><tr><td>Eisenkraemer The paper et al, 2013. . (26 citations)</td><td>focuses on the testing effect as a method to enhance long-term retention and learn-</td><td>The paper conducted a systematic review of articles on the testing effect from 2006 to 2012.(evidence)</td><td>The paper measures knowledge retention and recall success through various learning interven- tions.(evidence)</td></tr></table>",
+        "bbox": [
+            215,
+            148,
+            781,
+            810
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            217,
+            154,
+            779,
+            486
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Is this table helpful? ",
+        "bbox": [
+            215,
+            512,
+            364,
+            526
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Practical Applications Here are practical ways to implement recall-based learning effectively: ",
+        "bbox": [
+            214,
+            545,
+            779,
+            575
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. Implement the 3R Technique ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            582,
+            498,
+            598
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "• Use the Read-Recite-Review method where learners read material, recite it aloud, and then review   \n• This approach provides multiple memory cues and helps identify knowledge gaps [ (Loprinzi et al., 2019) ](https://semanticscholar.org/p/201870017)   \n• Can be enhanced by adding judgment of inference tasks to improve deeper understanding [ (Nguyen et al., 2016) ](https://semanticscholar.org/p/19307523) ",
+        "bbox": [
+            272,
+            606,
+            782,
+            849
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. Design Appropriate Testing Formats ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            157,
+            560,
+            172
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "• Free-recall tests require more mental effort than cued-recall, which requires more effort than recognition tests   \n• Higher effort in testing generally leads to better long-term retention [ (Pastötter et al., 2022) ](https://semanticscholar.org/p/247640677)   \n[ (Coppens et al., 2020) ](https://semanticscholar.org/p/227095951) ",
+        "bbox": [
+            274,
+            181,
+            781,
+            369
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. Incorporate Low-Stakes Quizzing ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            377,
+            532,
+            392
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "• Regular, no-stakes or low-stakes quizzing shows strong pedagogical benefits   \n• Can be applied across various subjects and complexity levels [ (Rea et al., 2022) ](https://semanticscholar.org/p/254910366)   \n• Effective for both simple tasks like vocabulary and complex theoretical applications [ (Borter, 2024) ](https://semanticscholar.org/p/268919885) [ (Schwieren et al., 2017) ](https://semanticscholar.org/p/151955011) ",
+        "bbox": [
+            272,
+            400,
+            782,
+            694
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. Use Active Engagement Strategies ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            700,
+            542,
+            717
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "• Encourage active control and manipulation of learning materials rather than passive viewing   \n• Implement paired-associate learning with retrieval practice rather than simple restudy [ (Bridge et al., 2015) ",
+        "bbox": [
+            274,
+            723,
+            781,
+            838
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5. Optimize Review Scheduling ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            180,
+            495,
+            195
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• Balance introducing new material with reviewing previously learned content   \n• Use increasing intervals between rehearsals for test-type practice [ (Reddy et al., 2016) ](https://semanticscholar.org/p/921527) [ (Landauer et al., 1978) ](https://semanticscholar.org/p/141316238) ",
+        "bbox": [
+            272,
+            204,
+            781,
+            392
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6. Address Student Misconceptions ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            398,
+            527,
+            415
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• Educate students about the benefits of testing as a learning strategy   \n• Help students understand that repeated testing is more effective than repeated studying [ (Karpicke et al., 2008) ](https://semanticscholar.org/p/32693) ",
+        "bbox": [
+            272,
+            421,
+            782,
+            542
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7. Integrate Testing Across Educational Settings ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            550,
+            635,
+            565
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• Testing effects work in both experimental and applied classroom settings   \n• Can be implemented across different academic levels and subject areas [ (Lamotte et al., 2021) ](https://semanticscholar.org/p/238771830) ",
+        "bbox": [
+            272,
+            573,
+            781,
+            710
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Is this section helpful? ",
+        "bbox": [
+            215,
+            717,
+            379,
+            731
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            750,
+            307,
+            763
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. Pamela Cowan, Rachel Farrell. Using Virtual Reality to Support Retrieval Practice in Blended Learning: An Interdisciplinary Professional Development Collaboration between Novice and Expert Teachers. 2023. Digit.. 2 citations. ",
+        "bbox": [
+            236,
+            771,
+            781,
+            832
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2. Edwina E. Abott. ON THE ANALYSIS OF THE FACTOR OF RECALL IN THE LEARNING PROCESS. 1909. 144 citations.   \n3. M. Pyc, Katherine A. Rawson. Why Testing Improves Memory: Mediator Effectiveness Hypothesis. 2010. Science. 372 citations.   \n4. Christopher A. Rowland. The effect of testing versus restudy on retention: a meta-analytic review of the testing effect.. 2014. Psychological bulletin. 809 citations.   \n5. Olusola O. Adesope, Dominic A. Trevisan, N. Sundararajan. Rethinking the Use of Tests: A Meta-Analysis of Practice Testing. 2017. 371 citations.   \n6. Michelle L. Rivers. Test Experience, Direct Instruction, and Their Combination Promote Accurate Beliefs about the Testing Effect. 2023. Journal of Intelligence. 1 citations.   \n7. J. Antony, K. Paller. Retrieval and sleep both counteract the forgetting of spatial information. 2018. Learning & memory (Cold Spring Harbor, N.Y.). 18 citations.   \n8. Juan Pablo Arango-Ibañez, Jose Alejandro Posso-Nuñez, Juan Pablo DíazSolórzano, G. Cruz-Suárez. Evidence-Based Learning Strategies in Medicine Using AI. 2023. JMIR Medical Education. 2 citations.   \n9. M. Augustin. How to Learn Effectively in Medical School: Test Yourself, Learn Actively, and Repeat in Intervals. 2014. The Yale Journal of Biology and Medicine. 137 citations.   \n10. Nate Kornell, M. J. Hays, R. Bjork. Unsuccessful retrieval attempts enhance subsequent learning.. 2009. Journal of Experimental Psychology. Learning, Memory and Cognition. 446 citations.   \n11. Sau Hou Chang. The Effects of Test Trial and Processing Level on Immediate and Delayed Retention. 2017. Europe’s Journal of Psychology. 6 citations.   \n12. Frank C. Leeming. The Exam-A-Day Procedure Improves Performance in Psychology Classes. 2002. 209 citations.   \n13. E. De Loof, Kate Ergo, Lien Naert, Clio Janssens, D. Talsma, Filip Van Opstal et al. Signed reward prediction errors drive declarative learning. 2018. PLoS ONE. 35 citations.   \n14. Shana K. Carpenter. Cue strength as a moderator of the testing effect: the benefits of elaborative retrieval.. 2009. Journal of Experimental Psychology. Learning, Memory and Cognition. 472 citations.   \n15. E’Loria Simon-Campbell, J. Phelan. Effectiveness of an Adaptive Quizzing System as a Self-Regulated Study Tool to Improve Nursing Students’ Learning. 2018. International Journal of Nursing & Clinical Practices. 6 citations.   \n16. Jeffrey D. Karpicke, A. C. Butler, H. Roediger III. Metacognitive strategies in student learning: Do students practise retrieval when they study on their own?. 2009. Memory. 669 citations.   \n17. Zhifang Ye, Liang Shi, Anqi Li, Chuansheng Chen, G. Xue. Retrieval practice facilitates memory updating by enhancing and differentiating medial prefrontal cortex representations. 2020. eLife. 24 citations.   \n18. Catarina S. Ferreira, M. Wimber. The Testing Effect for Visual Materials Depends on Preexisting Knowledge. 2021. Journal of Experimental Psychology. Learning, Memory and Cognition. 1 citations.   \n19. C. A. Guran, Lorena Deuker, M. Göttlich, N. Axmacher, N. Bunzeck. Benefit from retrieval practice is linked to temporal and frontal activity in healthy young and older humans. 2022. Cerebral Cortex Communications. 2 citations.   \n20. M. J. Maraver, Ana Lapa, L. Garcia-Marques, P. Carneiro, Ana Raposo. Can we learn from errors? Retrieval facilitates the correction of false memories for pragmatic inferences. 2022. PLoS ONE. 2 citations.   \n21. M. Sekeres, K. Bonasia, Marie St-Laurent, S. Pishdadian, G. Winocur, C. Grady et al. Recovering and preventing loss of detailed memory: differential rates of forgetting for detail types in episodic memory. 2016. Learning & memory (Cold Spring Harbor, N.Y.). 117 citations.   \n22. Xiaonan L. Liu, P. Liang, Kuncheng Li, L. Reder. Uncovering the Neural Mechanisms Underlying Learning from Tests. 2014. PLoS ONE. 27 citations.   \n23. R. Blumenfeld, C. Ranganath. Dorsolateral Prefrontal Cortex Promotes Long-Term Memory Formation through Its Role in Working Memory Organization. 2006. Journal of Neuroscience. 376 citations.   \n24. Hanan Kondratjew, Marion Kahrens. Leveraging experiential learning training through spaced learning. 2019. Journal of Work-Applied Management. 8 citations.   \n25. Sean H. K. Kang. Spaced Repetition Promotes Efficient and Effective Learning. 2016. 294 citations.   \n26. N. Cepeda, H. Pashler, E. Vul, J. Wixted, D. Rohrer. Distributed practice in verbal recall tasks: A review and quantitative synthesis.. 2006. Psychological bulletin. 1523 citations.   \n27. A. Baillifard, Maxime Gabella, P. B. Lavenex, C. Martarelli. Implementing Learning Principles with a Personal AI Tutor: A Case Study. 2023. arXiv.org.   \n28. Jianshu Zhang, Yankai Fu, Ziheng Peng, Dongyu Yao, Kun He. CORE: Mitigating Catastrophic Forgetting in Continual Learning through Cognitive Replay. 2024. arXiv.org.   \n29. S. Brkić. [Reference citation].. 2013. Srpski Arhiv za Celokupno Lekarstvo. 3 citations.   \n30. Jonathan Firth. Teachers’ Beliefs about Memory: A Vignette Study of Trainee and In-Service Teachers. 2021. Studia Psychologica. 1 citations.   \n31. Raquel Eloísa Eisenkraemer, Antônio Jaeger, L. M. Stein. A Systematic Review of the Testing Effect in Learning. 2013. 26 citations.   \n32. J. Metsämuuronen, Markus T Mattsson. Effect of Repeated Testing to the Development of Vocabulary, Nominal Structures and Verbal Morphology. 2013. 4 citations.   \n33. P. Loprinzi, Faith Harris, Kyle McRaney, Morgan Chism, Raymond Deming, T. Jones et al. Effects of Acute Exercise and Learning Strategy Implementation on Memory Function. 2019. Medicina. 12 citations.   \n34. K. Nguyen, M. McDaniel. The JOIs of text comprehension: Supplementing retrieval practice to enhance inference performance.. 2016. Journal of experimental psychology. Applied. 25 citations.   \n35. Bernhard Pastötter, J. Urban, Johannes Lötzer, C. Frings. Retrieval Practice Enhances New Learning but does Not Affect Performance in Subsequent Arithmetic Tasks. 2022. Journal of Cognition. 4 citations.   \n36. Leonora C. Coppens, M. de Jonge, Tamara van Gog, L. Kester. The effect of practice test modality on perceived mental effort and delayed final test performance. 2020. 4 citations.   \n37. S. Rea, Lisi Wang, Katherine Muenks, Veronica X. Yan. Students Can (Mostly) Recognize Effective Learning, So Why Do They Not Do It?. 2022. Journal of Intelligence. 26 citations.   \n38. Natalie Borter. Differential Effects of Additional Formative Assessments on Student Learning Behaviors and Outcomes. 2024. Studia Paedagogica.   \n39. Juliane Schwieren, Jonathan Barenberg, S. Dutke. The Testing Effect in the Psychology Classroom: A Meta-Analytic Perspective. 2017. 77 citations.   \n40. Donna J Bridge, Joel L. Voss. Binding among select episodic elements is altered via active short-term retrieval. 2015. Learning & memory (Cold Spring Harbor, N.Y.). 8 citations.   \n41. S. Reddy, I. Labutov, Siddhartha Banerjee, T. Joachims. Unbounded Human Learning: Optimal Scheduling for Spaced Repetition. 2016. Knowledge Discovery and Data Mining. 56 citations.   \n42. T. Landauer, Murray H, Usa J R A Bjork. Optimum rehearsal patterns and name learning. 1978. 549 citations.   \n43. Jeffrey D. Karpicke, H. Roediger. The Critical Importance of Retrieval for Learning. 2008. Science. 1571 citations.   \n44. Mathilde Lamotte, M. Izaute, Céline Darnon. Can tests improve learning in real university classrooms?. 2021. Journal of Cognitive Psychology. 4 citations. ",
+        "bbox": [
+            228,
+            156,
+            782,
+            838
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            225,
+            157,
+            782,
+            852
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            227,
+            155,
+            782,
+            595
+        ],
+        "page_idx": 15
+    }
+]
